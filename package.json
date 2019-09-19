@@ -1,6 +1,6 @@
 {
   "name": "ghost-testrpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A testrpc-sc stub for solidity-coverage >= 0.7.0 (which errors when launched.)",
   "bin": {
     "testrpc-sc": "./index.js"
